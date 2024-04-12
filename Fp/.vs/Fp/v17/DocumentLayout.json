@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git directory\\Fp\\",
+  "WorkspaceRootPath": "D:\\Git directory\\c-practice\\Fp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5973998D-7637-439A-85C6-D1BA901D288B}|Fp\\Fp.vcxproj|D:\\Git directory\\Fp\\Fp\\dddd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5973998D-7637-439A-85C6-D1BA901D288B}|Fp\\Fp.vcxproj|solutionrelative:Fp\\dddd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git directory\\c-practice\\Fp\\Fp\\dddd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fp\\dddd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "dddd.cpp",
-              "DocumentMoniker": "D:\\Git directory\\Fp\\Fp\\dddd.cpp",
+              "DocumentMoniker": "D:\\Git directory\\c-practice\\Fp\\Fp\\dddd.cpp",
               "RelativeDocumentMoniker": "Fp\\dddd.cpp",
-              "ToolTip": "D:\\Git directory\\Fp\\Fp\\dddd.cpp",
+              "ToolTip": "D:\\Git directory\\c-practice\\Fp\\Fp\\dddd.cpp",
               "RelativeToolTip": "Fp\\dddd.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-08T18:01:24.237Z",
               "EditorCaption": ""

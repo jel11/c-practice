@@ -1,0 +1,6 @@
+﻿Build started at 13:45...
+1>------ Build started: Project: ConsoleApplication2, Configuration: Debug x64 ------
+1>ConsoleApplication2.cpp
+1>ConsoleApplication2.vcxproj -> D:\Git directory\c-practice\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 13:45 and took 01,116 seconds ==========
